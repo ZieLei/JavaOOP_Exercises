@@ -1,0 +1,1 @@
+A repo with random oop practice codes, tried different styles so some files might not be consistent
